@@ -1,0 +1,22 @@
+{
+	"name": "aprendendo_jest",
+	"version": "1.0.0",
+	"description": "Aprendendo TDD com JEST",
+	"main": "app.js",
+	"scripts": {
+		"test": "jest --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/devrsantos/aprendendo_tdd_jest.git"
+	},
+	"author": "Renan Augusto dos Santos <devrsantos@gmail.com> (https://github.com/devrsantos)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/devrsantos/aprendendo_tdd_jest/issues"
+	},
+	"homepage": "https://github.com/devrsantos/aprendendo_tdd_jest#readme",
+	"devDependencies": {
+		"jest": "^24.8.0"
+	}
+}
